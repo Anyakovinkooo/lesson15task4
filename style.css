@@ -1,8 +1,9 @@
 .image-container {
+  position: relative;
   display: flex;
+  justify-content: center;
 }
 .image {
-  display: block;
   margin: auto;
   max-width: 100%;
 }
